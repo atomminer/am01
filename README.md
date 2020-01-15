@@ -15,8 +15,9 @@ AM01 miner has XC7A200T-1FBG484I FPGA chip from Xilinx on board. Following commu
 ## Demo projects
 
 Our reference HLS implementations:
-[gr0estl algo](https://github.com/atomminer/Gr0estl-Miner)
-[nist5 algo](https://github.com/atomminer/Nist5-hls)
+
+* [gr0estl algo](https://github.com/atomminer/Gr0estl-Miner)
+* [nist5 algo](https://github.com/atomminer/Nist5-hls)
 
 We can recommend to check [odocrypt from DGB team](https://github.com/MentalCollatz/odo-miner) as well since odo project that can be easily implemented in AM01 miner.
 
