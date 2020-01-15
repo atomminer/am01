@@ -22,11 +22,5 @@ We can recommend to check [odocrypt from DGB team](https://github.com/MentalColl
 
 We will publish more demo projects here in the future.
 
-### Structure
-
-├── hardware
-│   └── Schematics and components layout
-├── pinout
-│   └── .xdc pin assignment constraints file(s)
 
 
