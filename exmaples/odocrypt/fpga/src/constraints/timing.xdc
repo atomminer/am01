@@ -1,0 +1,1 @@
+set_clock_groups -name clk_s -asynchronous -group [get_clocks [get_clocks -of_objects [get_pins clk_pclk/inst/mmcm_adv_inst/CLKOUT0]]] -group [get_clocks [get_clocks -of_objects [get_pins artix200_v3_clocking/inst/mmcm_adv_inst/CLKOUT0]]]
